@@ -1,0 +1,78 @@
+.login {
+	background-image: url("../Images/Dark-Avengers.jpg");
+	font-family: "Source Sans Pro";
+	background-size: cover;
+}
+
+.signup {
+	background-image: url("../Images/Dark-Assassin.jpg");
+	font-family: "Source Sans Pro";
+	background-size: cover;
+}
+
+.loginForm {
+	width: 40%;
+	height: 50%;
+	/*border: 3px solid black;*/
+	border-radius: 10px;
+	margin: 100px auto auto auto;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.7);
+}
+
+.signupForm {
+	width: 30%;
+	/*border: 3px solid black;*/
+	border-radius: 10px;
+	margin-right: 20px;
+	margin-top: 50px;
+	float: right;
+	text-align: center;
+	background-color: rgba(255, 255, 255, 0.7);
+	padding-bottom: 15px;
+}
+
+.sup{
+	color: black;
+	align:center;
+}
+
+.formInput {
+	width: 60%;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-bottom: 1px black solid;
+	height: 30px;
+	background-color: transparent;
+	color: black;
+	padding-left: 10px;
+}
+
+.formInput:focus {
+	/*background-color: white;*/
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+.submitButton {	
+	width: 60%;
+	border: 2px solid black;
+	border-radius: 10px;
+	color: white;
+	font-family: 'Source Sans Pro';
+	font-size: 1em;
+	padding: 3px 10px 10px;
+	background-color: #8B0000;
+	height: 50px;
+	text-decoration: none;
+	text-shadow: 2px 2px 5px black;
+	font-size: 2em;
+	opacity: 0.7;
+}
+
+.submitButton:hover {
+	opacity: 1;
+	border: 2px solid black;
+	transition-duration: 0.5s;
+}

@@ -1,0 +1,148 @@
+body {
+    background-color: black;
+    margin-top: 75px;
+    font-family: "Source Sans Pro";
+}
+
+#header {
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+    color: white;
+    position: relative;
+    margin: 0px;
+    padding: 15px;
+}
+
+.searchButton {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 8px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+}
+
+/*.navbar {
+    overflow: hidden;
+    background-color: rgb(40, 40, 40);
+    font-family: "Source Sans Pro";
+}
+*/
+/*.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+*/
+/*.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: black;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(40, 40, 40);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}*/
+
+footer {
+    background-color: rgb(80, 80, 80);
+    padding-top: 1px;
+    padding-bottom: 1px;
+    text-align: center;
+    position: relative;
+}
+
+.searchBar {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+.well {
+    background-color: #2C3531;
+    border-color: #FFCB9A;
+    color: #FFCB9A;
+}
+
+.well .row {
+    background-color: #2C3531;
+    border-color: #FFCB9A;
+    color: #FFCB9A;
+}
+
+.well hr {
+    border-color: #FFCB9A;
+}
+
+.well p {
+    font-size: 1.2em;
+}
+
+.thumbnail {
+    background-color: #2C3531;
+    border-color: #FFCB9A;
+}
+
+.thumbnail .caption {
+    color: #FFCB9A;
+}
+
+.thumbnail .caption-full {
+    color: #FFCB9A;
+}
+
+.well ul li {
+    font-size: 1.2em;
+}
