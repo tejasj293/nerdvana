@@ -19,8 +19,8 @@ Features:
 
 ***********************************************************************************************************
 
-DEVELOPED BY: TEJAS "LA VOLPE" JOSHI
-              YOGESH "PACHO" MURARKA
-              VEDANT "BMW" SINGH
+DEVELOPED BY: TEJAS JOSHI
+              YOGESH MURARKA
+              VEDANT SINGH
 
 ***********************************************************************************************************
